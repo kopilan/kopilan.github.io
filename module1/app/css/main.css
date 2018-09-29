@@ -1,0 +1,39 @@
+*{
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+} 
+body{
+	background-color: #381216;
+	font-family: 'Pacifico', cursive;
+}
+main{
+	background-color: #fff;
+	background-image: url(../img/img1.jpg);
+	width: 70%;
+	margin: auto;
+	padding: 50px;
+	box-shadow: 0 0 20px 5px rgba(0,0,0,0.6);
+}
+
+img{
+	max-height: 100%;
+	height: auto;
+	display: block;
+	margin: auto;
+}
+
+h1{
+	text-align: center;
+	font-size: 42px;
+	margin-bottom: 30px; 
+
+
+}
+p{
+	text-align: center;
+	font-size: 17px;
+	line-height: 1.5;
+	letter-spacing: 1px;
+
+}
